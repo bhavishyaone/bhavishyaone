@@ -104,5 +104,5 @@ Most of my learning happens while fixing bugs at 2 AM!
 ## Activity Pulse
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhavishyaone&theme=react-dark&hide_border=true&area=true&custom_title=Bhavishya's%20Contribution%20Graph" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhavishyaone&bg_color=1a1b27&color=70a5fd&line=39ff14&point=6c8bc7&area=true&custom_title=Bhavishya's%20Contribution%20Graph&hide_border=true" alt="Contribution Graph" />
 </p>
