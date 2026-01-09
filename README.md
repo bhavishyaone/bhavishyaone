@@ -12,6 +12,16 @@
   <img src="https://komarev.com/ghpvc/?username=bhavishyaone&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/bhavishya-sharma-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:bhavishaya32@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+
 ## About Me
 
 I'm a Full-Stack Developer focused on building practical web applications and understanding how systems work behind the scenes. I enjoy turning ideas into working products and improving them step by step.
